@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olivier DINAN</h1>
-<h3 align="center">A passionate backeend developer from New Caledonia</h3>
+<h3 align="center">A passionate backend developer from New Caledonia</h3>
 
 - 🔭 I’m currently working on [a video Game Project - Mindbug](https://github.com/Metabolic24/Mindbug_Student_Project)
 
